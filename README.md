@@ -6,8 +6,7 @@
 - Sayed Haidar
 
 
-  
-**File Listing**
+**Division of Labor**
 
 ```plaintext
 Part 1: System Call Tracing
