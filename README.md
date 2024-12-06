@@ -1,4 +1,10 @@
 **Project 2: Division of Labor**
+
+Team Members:
+- Alek Coupet
+- Bilal Taleb
+- Sayed Haidar
+
 **Operating Systems**
 ```plaintext
 Team Members:
