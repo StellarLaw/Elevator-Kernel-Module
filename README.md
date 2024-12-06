@@ -5,13 +5,7 @@
 - Bilal Taleb
 - Sayed Haidar
 
-**Operating Systems**
 ```plaintext
-Team Members:
-1. Alek Coupet
-2. Bilal Taleb
-3. Sayed Haider
-
 Part 1: System Call Tracing
 - All Members
 Part 2: Timer Kernel Module
