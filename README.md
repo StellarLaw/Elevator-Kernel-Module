@@ -1,4 +1,4 @@
-**Project 2: Elevator Kernel Module**
+**Elevator Kernel Module**
 
 **Team Members**
 - Alek Coupet
