@@ -1,4 +1,4 @@
-**Project 2: Division of Labor**
+**Project 2: Elevator Kernel Module**
 
 **Team Members**
 - Alek Coupet
