@@ -13,7 +13,7 @@ This project provides hands-on experience in kernel programming and system-level
 - Timer Kernel Module: Creating a kernel module to retrieve and display real-time and elapsed time using /proc interfaces.
 - Elevator Kernel Module: Developing a kernel module simulating a dorm elevator with realistic constraints, including passenger handling, scheduling, and synchronization using mutexes and kthreads.
 
-This project explores essential concepts like concurrency, thread synchronization, and dynamic memory management in a kernel environment. By the end, the completed kernel modules demonstrate effective scheduling, resource management, and robust system programming practices.
+It explores essential concepts like concurrency, thread synchronization, and dynamic memory management in a kernel environment. By the end, the completed kernel modules demonstrate effective scheduling, resource management, and robust system programming practices.
 
 **Division of Labor**
 
