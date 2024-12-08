@@ -7,7 +7,7 @@
 
 **Overview**
 
-This project, Elevator Kernel Module, provides hands-on experience in kernel programming and system-level resource management. It is divided into three parts, each designed to build on the previous:
+This project provides hands-on experience in kernel programming and system-level resource management. It is divided into three parts, each designed to build on the previous:
 
 - System Call Tracing: Adding and verifying system calls in a C program to deepen understanding of their interaction with the kernel.
 - Timer Kernel Module: Creating a kernel module to retrieve and display real-time and elapsed time using /proc interfaces.
