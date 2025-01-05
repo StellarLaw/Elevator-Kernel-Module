@@ -15,26 +15,6 @@ This project provides hands-on experience in kernel programming and system-level
 
 It explores essential concepts like concurrency, thread synchronization, and dynamic memory management in a kernel environment. By the end, the completed kernel modules demonstrate effective scheduling, resource management, and robust system programming practices.
 
-**Division of Labor**
-
-```plaintext
-Part 1: System Call Tracing
-- All Members
-Part 2: Timer Kernel Module
-- All Members
-Part 3a: Adding System Calls
-- All Members
-Part 3b: Kernel Compilation
-- All Members
-Part 3c: Threads
-- Sayed
-Part 3d: Linked List
-- Alek
-Part 3e: Mutexes
-- Bilal
-Part 3f: Scheduling Algorithm
-- All Members
-```
 
 **Part 1: System-Call Tracing**
 
